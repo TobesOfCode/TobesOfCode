@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tobie Jansen van Vuuren 👋
+# Hi, I'm Tobie Jansen van Vuuren
 ### **Full-Stack & Systems Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiejansenvanvuuren/)
@@ -13,12 +13,14 @@
 
 ### About Me
 
-I am a Software Engineering student specializing in building robust, scalable full-stack applications, distributed backend architectures, and data pipelines. Passionate about clean code, system architecture, and performance optimization.
+Software exists to serve human beings, not just process data. 
 
-* **Core Focus:** C# / .NET Architectures, Node.js Microservices & Relational Database Design
-* **Current Work:** End-to-end web applications, IoT data ingestion pipelines, and RESTful APIs
-* **Workflow & Knowledge Management:** Deep believer in structured documentation using Obsidian
-* **Fun Fact:** When I'm not writing code, I'm deep into automotive diagnostic systems, hi-fi audio setups, and sim racing.
+Behind every database schema, API endpoint, and data pipeline is a real person relying on the system to be fast, secure, and dependable. As a **Backend & Systems Developer**, my priority is building software that earns that trust—through reliable architecture, strict security, and clean, maintainable code written for humans to read.
+
+* **Backend & Databases:** Architecting C# / .NET applications, Node.js services, and structured PostgreSQL & SQL Server databases.
+* **Systems & Pipelines:** Designing end-to-end web applications, real-time IoT data ingestion, and secure REST APIs.
+* **Documentation:** A strong advocate for clear systems thinking, structured knowledge mapping, and explicit documentation in **Obsidian**.
+* **Beyond the Screen:** Hands-on with automotive electronics and diagnostics, hi-fi audio setups, and multi-day wilderness hikes.
 
 ---
 
@@ -26,9 +28,10 @@ I am a Software Engineering student specializing in building robust, scalable fu
 
 #### **Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -41,10 +44,15 @@ I am a Software Engineering student specializing in building robust, scalable fu
 #### **Databases & ORMs**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### **Low-Code & Business Applications**
+![Microsoft Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
 
 #### **Tools & Environments**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
