@@ -3,6 +3,12 @@
 # Hi, I'm Tobie Jansen van Vuuren
 ### **Full-Stack & Systems Developer**
 
+Code is temporary. Its impact on human lives is absolute.
+
+We construct databases and pipelines to carry real human weight. People rely on our logic to manage their health, track their information, and safeguard their livelihoods. Technology is merely the medium. Human dignity and safety are the ultimate measures of the work.
+
+Engineering is fundamentally an act of stewardship. A fragile system is a direct breach of trust. As a Backend & Systems Developer, my focus is to build architecture that honors this moral obligation. By demanding strict security, clean design, and deeply maintainable logic, I work to ensure the systems we depend on remain steadfast, invisible, and worthy of the people they serve.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiejansenvanvuuren/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://TobesOfCode.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiejvv@gmail.com)
@@ -14,8 +20,6 @@
 ### About Me
 
 Software exists to serve human beings, not just process data. 
-
-Behind every database schema, API endpoint, and data pipeline is a real person relying on the system to be fast, secure, and dependable. As a **Backend & Systems Developer**, my priority is building software that earns that trust, through reliable architecture, strict security, and clean, maintainable code written for humans to read.
 
 * **Backend & Databases:** Architecting C# / .NET applications, Node.js services, and structured PostgreSQL & SQL Server databases.
 * **Systems & Pipelines:** Designing end-to-end web applications, real-time IoT data ingestion, and secure REST APIs.
