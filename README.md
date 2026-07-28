@@ -15,7 +15,7 @@
 
 Software exists to serve human beings, not just process data. 
 
-Behind every database schema, API endpoint, and data pipeline is a real person relying on the system to be fast, secure, and dependable. As a **Backend & Systems Developer**, my priority is building software that earns that trust—through reliable architecture, strict security, and clean, maintainable code written for humans to read.
+Behind every database schema, API endpoint, and data pipeline is a real person relying on the system to be fast, secure, and dependable. As a **Backend & Systems Developer**, my priority is building software that earns that trust, through reliable architecture, strict security, and clean, maintainable code written for humans to read.
 
 * **Backend & Databases:** Architecting C# / .NET applications, Node.js services, and structured PostgreSQL & SQL Server databases.
 * **Systems & Pipelines:** Designing end-to-end web applications, real-time IoT data ingestion, and secure REST APIs.
@@ -63,14 +63,14 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 ### Featured Projects & Academic Repositories
 
 <details>
-<summary><b>The Green Blanket — Eco-Tech IoT Pipeline & Analytical Engine</b></summary>
+<summary><b>The Green Blanket ,  Eco-Tech IoT Pipeline & Analytical Engine</b></summary>
 <br />
 
 * **Overview:** A comprehensive environmental monitoring system developed to track water quality conditions (specifically Hartbeespoort Dam) in real-time. Features complex data ingestion pipelines, analytical processing, and an interactive frontend dashboard.
 * **Architecture & Tech:** Node.js, Express, PostgreSQL, REST APIs, and integrated Chatbot capabilities.
 * **Repositories:** 
-  * ⚙️ [Back-End Repository](https://github.com/IEP-The-Green-Blanket/Back-End)
-  * 🖥️ [Front-End Repository](https://github.com/IEP-The-Green-Blanket/Front-End)
+  * [Back-End Repository](https://github.com/IEP-The-Green-Blanket/Back-End)
+  * [Front-End Repository](https://github.com/IEP-The-Green-Blanket/Front-End)
 </details>
 
 <details>
@@ -101,7 +101,7 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 </details>
 
 <details>
-<summary><b>Milly's Chocolate Factory — Business Logic & Inventory System</b></summary>
+<summary><b>Milly's Chocolate Factory ,  Business Logic & Inventory System</b></summary>
 <br />
 
 * **Overview:** An application built to model enterprise business workflows, order processing, and inventory management, emphasizing structured object-oriented design and data encapsulation.
@@ -128,7 +128,7 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 </details>
 
 <details>
-<summary><b>⚙️ Advanced System Programming (PRG381)</b></summary>
+<summary><b>Advanced System Programming (PRG381)</b></summary>
 <br />
 
 * **Overview:** A collaborative enterprise-level programming project (Group 3). Focused on advanced object-oriented programming (OOP) principles, relational database integration, and scalable system design.
@@ -180,6 +180,6 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 
 <div align="center">
 
-*“Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra*
+*“Simplicity is prerequisite for reliability.” ,  Edsger W. Dijkstra*
 
 </div>
