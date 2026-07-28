@@ -167,8 +167,8 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TobesOfCode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=false" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobesOfCode&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=TobesOfCode&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TobesOfCode&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="170" alt="Top Languages" />
 
 <br /><br />
 
