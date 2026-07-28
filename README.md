@@ -90,7 +90,7 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Commit Streak" />
+<img src="https://streak-stats.demolab.com/?user=TobesOfCode&theme=tokyonight&hide_border=true" alt="Commit Streak" />
 
 </div>
 
