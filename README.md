@@ -11,14 +11,14 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
 I am a Software Engineering student specializing in building robust, scalable full-stack applications, distributed backend architectures, and data pipelines. Passionate about clean code, system architecture, and performance optimization.
 
-* 🔭 **Core Focus:** C# / .NET Architectures, Node.js Microservices & Relational Database Design
-* 🛠️ **Current Work:** End-to-end web applications, IoT data ingestion pipelines, and RESTful APIs
-* 🧠 **Workflow & Knowledge Management:** Deep believer in structured documentation using Obsidian
-* ⚡ **Fun Fact:** When I'm not writing code, I'm deep into automotive diagnostic systems, hi-fi audio setups, and sim racing.
+* **Core Focus:** C# / .NET Architectures, Node.js Microservices & Relational Database Design
+* **Current Work:** End-to-end web applications, IoT data ingestion pipelines, and RESTful APIs
+* **Workflow & Knowledge Management:** Deep believer in structured documentation using Obsidian
+* **Fun Fact:** When I'm not writing code, I'm deep into automotive diagnostic systems, hi-fi audio setups, and sim racing.
 
 ---
 
@@ -52,10 +52,10 @@ I am a Software Engineering student specializing in building robust, scalable fu
 
 ---
 
-### 🚀 Featured Highlights
+### Featured Highlights
 
 <details>
-<summary><b>🌱 Green Blanket — Eco-Tech Analytical Engine & Dashboard</b></summary>
+<summary><b>Green Blanket — Eco-Tech Analytical Engine & Dashboard</b></summary>
 <br />
 
 * **Overview:** An environmental monitoring system designed to track water quality indicators in real-time.
@@ -64,7 +64,7 @@ I am a Software Engineering student specializing in building robust, scalable fu
 </details>
 
 <details>
-<summary><b>⚡ Enterprise C# / .NET Application Framework</b></summary>
+<summary><b>Enterprise C# / .NET Application Framework</b></summary>
 <br />
 
 * **Overview:** Clean architecture backend designed with scalable ORM integrations and robust error handling.
@@ -73,7 +73,7 @@ I am a Software Engineering student specializing in building robust, scalable fu
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <div align="center">
 
