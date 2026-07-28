@@ -60,23 +60,62 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 
 ---
 
-### Featured Highlights
+### 🚀 Featured Projects & Academic Repositories
 
 <details>
-<summary><b>Green Blanket — Eco-Tech Analytical Engine & Dashboard</b></summary>
+<summary><b>🌱 The Green Blanket — Eco-Tech IoT Pipeline & Analytical Engine</b></summary>
 <br />
 
-* **Overview:** An environmental monitoring system designed to track water quality indicators in real-time.
-* **Architecture:** Features an IoT data ingestion pipeline, analytical engines, PostgreSQL database schemas, and an interactive frontend dashboard with integrated chatbot capabilities.
-* **Tech Stack:** Node.js, Express, PostgreSQL, REST APIs.
+* **Overview:** A comprehensive environmental monitoring system developed to track water quality conditions (specifically Hartbeespoort Dam) in real-time. Features complex data ingestion pipelines, analytical processing, and an interactive frontend dashboard.
+* **Architecture & Tech:** Node.js, Express, PostgreSQL, REST APIs, and integrated Chatbot capabilities.
+* **Repositories:** 
+  * ⚙️ [Back-End Repository](https://github.com/IEP-The-Green-Blanket/Back-End)
+  * 🖥️ [Front-End Repository](https://github.com/IEP-The-Green-Blanket/Front-End)
 </details>
 
 <details>
-<summary><b>Enterprise C# / .NET Application Framework</b></summary>
+<summary><b>🏥 Diabetes Risk Segmentation & Decision Support System</b></summary>
 <br />
 
-* **Overview:** Clean architecture backend designed with scalable ORM integrations and robust error handling.
-* **Tech Stack:** C#, .NET Core, SQL Server, Entity Framework.
+* **Overview:** A health-tech data analysis and decision support tool designed to segment user data and evaluate diabetes risk factors using structured datasets and algorithmic evaluation.
+* **Focus:** Data structuring, risk assessment modeling, and decision-support architecture.
+* **Repository:** [View Project](https://github.com/mnrjared/Diabetes-Risk-Segmentation-and-Decision-Support-System)
+</details>
+
+<details>
+<summary><b>💳 Credit Risk Assessment Platform</b></summary>
+<br />
+
+* **Overview:** A financial analytics system built to assess and categorize credit risk. Showcases strong capabilities in managing analytical datasets, backend logic, and risk modeling.
+* **Focus:** Data analysis, algorithmic processing, and structured system logic.
+* **Repository:** [View Project](https://github.com/mnrjared/Credit-Risk-Assessment)
+</details>
+
+<details>
+<summary><b>🌐 Enterprise Web Programming Architecture (WPR381)</b></summary>
+<br />
+
+* **Overview:** Collaborative full-stack web application built for the WPR381 Web Programming module. Demonstrates advanced frontend-to-backend integration, robust API routing, and clean code architecture.
+* **Focus:** Web development, client-server communication, and RESTful principles.
+* **Repository:** [View Project](https://github.com/AidanSm2103/WPR381_Project)
+</details>
+
+<details>
+<summary><b>⚙️ Advanced System Programming (PRG381)</b></summary>
+<br />
+
+* **Overview:** A collaborative enterprise-level programming project (Group 3). Focused on advanced object-oriented programming (OOP) principles, relational database integration, and scalable system design.
+* **Focus:** C# / .NET (Assumed), Entity Framework, complex system architectures, and team collaboration.
+* **Repository:** [View Project](https://github.com/Waldo-Blom/PRG381_Project_PTA381_AM_Group-3)
+</details>
+
+<details>
+<summary><b>🏗️ Foundational Software Systems (PRG282)</b></summary>
+<br />
+
+* **Overview:** A core software engineering project demonstrating fundamental programming concepts, database management, and structured application development.
+* **Focus:** Object-oriented design, data handling, and backend logic.
+* **Repository:** [View Project](https://github.com/TobesOfCode/PRG282_Repository)
 </details>
 
 ---
