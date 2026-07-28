@@ -24,7 +24,7 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 
 ---
 
-### 💻 Technical Skills & Technologies
+### Technical Skills & Technologies
 
 #### **Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -60,10 +60,10 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 
 ---
 
-### 🚀 Featured Projects & Academic Repositories
+### Featured Projects & Academic Repositories
 
 <details>
-<summary><b>🌱 The Green Blanket — Eco-Tech IoT Pipeline & Analytical Engine</b></summary>
+<summary><b>The Green Blanket — Eco-Tech IoT Pipeline & Analytical Engine</b></summary>
 <br />
 
 * **Overview:** A comprehensive environmental monitoring system developed to track water quality conditions (specifically Hartbeespoort Dam) in real-time. Features complex data ingestion pipelines, analytical processing, and an interactive frontend dashboard.
@@ -74,7 +74,7 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 </details>
 
 <details>
-<summary><b>🏥 Diabetes Risk Segmentation & Decision Support System</b></summary>
+<summary><b>Diabetes Risk Segmentation & Decision Support System</b></summary>
 <br />
 
 * **Overview:** A health-tech data analysis and decision support tool designed to segment user data and evaluate diabetes risk factors using structured datasets and algorithmic evaluation.
@@ -83,7 +83,7 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 </details>
 
 <details>
-<summary><b>💳 Credit Risk Assessment Platform</b></summary>
+<summary><b>Credit Risk Assessment Platform</b></summary>
 <br />
 
 * **Overview:** A financial analytics system built to assess and categorize credit risk. Showcases strong capabilities in managing analytical datasets, backend logic, and risk modeling.
@@ -92,12 +92,39 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 </details>
 
 <details>
-<summary><b>🌐 Enterprise Web Programming Architecture (WPR381)</b></summary>
+<summary><b>Oliver Green Portfolio Website</b></summary>
+<br />
+
+* **Overview:** A custom-built, responsive portfolio web application designed to showcase professional work, technical skills, and project highlights with modern styling.
+* **Focus:** Frontend presentation, responsive layout design, and clean user experience.
+* **Repository:** [View Project](https://github.com/TobesOfCode/Portfolio-Website---Oliver-Green)
+</details>
+
+<details>
+<summary><b>Milly's Chocolate Factory — Business Logic & Inventory System</b></summary>
+<br />
+
+* **Overview:** An application built to model enterprise business workflows, order processing, and inventory management, emphasizing structured object-oriented design and data encapsulation.
+* **Focus:** Object-oriented programming, data structures, and robust application logic.
+* **Repository:** [View Project](https://github.com/TobesOfCode/MillysChocolateFactory)
+</details>
+
+<details>
+<summary><b>Enterprise Web Programming Architecture (WPR381)</b></summary>
 <br />
 
 * **Overview:** Collaborative full-stack web application built for the WPR381 Web Programming module. Demonstrates advanced frontend-to-backend integration, robust API routing, and clean code architecture.
 * **Focus:** Web development, client-server communication, and RESTful principles.
 * **Repository:** [View Project](https://github.com/AidanSm2103/WPR381_Project)
+</details>
+
+<details>
+<summary><b>Intermediate Web Programming (WPR281)</b></summary>
+<br />
+
+* **Overview:** Academic project focused on core web technologies, client-side scripting, and structured page styling.
+* **Focus:** HTML, CSS, JavaScript, and responsive UI implementation.
+* **Repository:** [View Project](https://github.com/TobesOfCode/WPR281)
 </details>
 
 <details>
@@ -110,7 +137,7 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 </details>
 
 <details>
-<summary><b>🏗️ Foundational Software Systems (PRG282)</b></summary>
+<summary><b>Foundational Software Systems (PRG282)</b></summary>
 <br />
 
 * **Overview:** A core software engineering project demonstrating fundamental programming concepts, database management, and structured application development.
@@ -118,9 +145,25 @@ Behind every database schema, API endpoint, and data pipeline is a real person r
 * **Repository:** [View Project](https://github.com/TobesOfCode/PRG282_Repository)
 </details>
 
----
+<details>
+<summary><b>Core Object-Oriented Programming (PRG281)</b></summary>
+<br />
 
-### 📊 GitHub Activity & Metrics
+* **Overview:** System development project implementing foundational object-oriented principles, modular architecture, and structured data handling.
+* **Focus:** Object-oriented design, encapsulation, inheritance, and core application logic.
+* **Repository:** [View Project](https://github.com/TobesOfCode/PRG281)
+</details>
+
+<details>
+<summary><b>Foundational Programming Logic (PRG181)</b></summary>
+<br />
+
+* **Overview:** Introductory programming module repository highlighting foundational computational logic, algorithmic problem-solving, and basic syntax structures.
+* **Focus:** Algorithmic thinking, syntax fundamentals, and logic flow.
+* **Repository:** [View Project](https://github.com/TobesOfCode/PRG181)
+</details>
+
+### GitHub Activity & Metrics
 
 <div align="center">
 
